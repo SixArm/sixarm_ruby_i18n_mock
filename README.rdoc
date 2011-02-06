@@ -2,9 +2,8 @@
 = SixArm Ruby Gem: I18n mock object for testing
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
-Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
-License:: CreativeCommons License, Non-commercial Share Alike
-License:: LGPL, GNU Lesser General Public License
+Copyright:: Copyright (c) 2006-2011 Joel Parker Henderson
+License:: See LICENSE.txt file
 
 I18nMock is an internationalization localization mock object,
 good for testing Rails I18n classes.
