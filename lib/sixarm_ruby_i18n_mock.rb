@@ -1,9 +1,10 @@
+# -*- coding: utf-8 -*-
 =begin rdoc
 
-= SixArm Ruby Gem: I18n mock object for testing
+= SixArm.com » Ruby » I18n mock object for testing
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
-Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
+Copyright:: Copyright (c) 2006-2011 Joel Parker Henderson
 License:: CreativeCommons License, Non-commercial Share Alike
 License:: LGPL, GNU Lesser General Public License
 

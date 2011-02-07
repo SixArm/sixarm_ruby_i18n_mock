@@ -1,5 +1,5 @@
 
-= SixArm Ruby Gem: I18n mock object for testing
+= SixArm.com » Ruby » I18n mock object for testing
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
 Copyright:: Copyright (c) 2006-2011 Joel Parker Henderson
