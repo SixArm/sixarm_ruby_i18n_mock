@@ -1,25 +1,6 @@
 # -*- coding: utf-8 -*-
-
 =begin rdoc
-
-= SixArm.com » Ruby » I18n mock object for testing
-
-Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
-Copyright:: Copyright (c) 2006-2011 Joel Parker Henderson
-License:: CreativeCommons License, Non-commercial Share Alike
-License:: LGPL, GNU Lesser General Public License
-
-I18nMock is an internationalization localization mock object,
-good for testing Rails I18n classes.
-
-==Example
-  require 'rubygems'
-  require 'i18n_mock'
-  I18n.locale="en-US"
-  I18n.locale => "en-US"
-  I18n.load_path="lib"
-  I18n.load_path => "lib"
-
+Please see README
 =end
 
 
