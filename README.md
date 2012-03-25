@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> I18n mock object for testing
 
-* Docs: <http://sixarm.com/sixarm_ruby_i18n_mock/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_i18n_mock/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_i18n_mock>
 * Repo: <http://github.com/sixarm/sixarm_ruby_i18n_mock>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
