@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> I18n mock object for testing
+# Ruby » <br> I18n mock object for testing
 
 * Doc: <http://sixarm.com/sixarm_ruby_i18n_mock/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_i18n_mock>
