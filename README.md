@@ -50,8 +50,3 @@ To install with high security:
     I18n.locale => "en-US"
     I18n.load_path="lib"
     I18n.load_path => "lib"
-
-
-## Changes
-
-* 2012-03-14 1.0.4 Update docs, tests
