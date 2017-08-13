@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_i18n_mock"
-  s.summary           = "SixArm.com » Ruby » I18N mock"
+  s.summary           = "SixArm.com → Ruby → I18N mock"
   s.description       = "Internationalization mock object for Rails testing"
   s.version           = "1.0.5"
 
