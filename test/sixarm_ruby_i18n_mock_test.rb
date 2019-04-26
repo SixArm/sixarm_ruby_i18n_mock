@@ -4,7 +4,7 @@ require "simplecov"
 SimpleCov.start
 require "sixarm_ruby_i18n_mock"
 
-class Testing < Test::Unit::TestCase
+class Testing < Minitest::Test
 
  def test_locale
   assert_equal("",I18n.locale)
